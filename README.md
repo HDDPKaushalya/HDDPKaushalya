@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HDDPKaushalya
+- 👋 Hi, I’m H.D.Dakshina Prasad Kaushalya
 - 👀 I’m interested in fintech
-- 🌱 I’m currently learning Python with ML,AI.
-- 📫 prasaddakshina56@gmail.com
+- 🌱 .NET Developer and Nice to Blazor
+- 📫 dakshinaprasad345@gmail.com
  
 
 <!---
